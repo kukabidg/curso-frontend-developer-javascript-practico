@@ -8,7 +8,7 @@ const menuCarritoIcon = document.querySelector('.navbar-shopping-cart');
 const aside = document.querySelector('.product-detail');
 const cardsContainer =document.querySelector('.cards-container');
 
-/** constructor */
+/** constructor da*/
 menuEmail.addEventListener('click', toggleDesktopMenu);
 menuHamIcon.addEventListener('click', toggleMobileMenu);
 menuCarritoIcon .addEventListener('click', toggleCarritoAside);
